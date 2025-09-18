@@ -12,11 +12,10 @@ Botão para puxar o menu?
 🔒 Sair / Logout
 
 
-
-📌 Uma coisa muito importante é deixar as rotas bem separadinhas e só importar no código main para evitar erros.
-📌 Um menu lateral com ícones sempre visíveis e que expande para mostrar os rótulos (labels) quando o usuário quiser.
+Uma coisa muito importante é deixar as rotas bem separadinhas e só importar no código main para evitar erros.
+Um menu lateral com ícones sempre visíveis e que expande para mostrar os rótulos (labels) quando o usuário quiser.
 ✅ Esse tipo de menu se chama: Collapsible Navigation Rail ou Expandable Side Menu with Persistent Icons
-💡 (Quando colapsado: mostrar só os ícones, Quando expandido: mostrar ícones + nomes. O usuário pode clicar em um botão para expandir ou colapsar.)
+(Quando colapsado: mostrar só os ícones, Quando expandido: mostrar ícones + nomes. O usuário pode clicar em um botão para expandir ou colapsar.)
 
 Mostrar tooltips?
 Adicionar animação ou transição suave.
