@@ -1,5 +1,0 @@
-(c + j) abrir o terminal
-(l + s) vai surgir a pasta em que voce esta(a maior)
-(c + d nome_da_pasta a do arquivo)
-(l + s) pra ver o nome_do_arquivo.py
-(flet run nome_do_arquivo.py)
